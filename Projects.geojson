@@ -26,6 +26,7 @@
 { "type": "Feature", "properties": { "Name": "McLenny Drive Thru Traffic Impact Study", "Detail": "Traffic Impact Study", "Type": "Traffic Impact Study", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -82.149298469001664, 30.221128612443451, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Vancouver Elevator RCP", "Detail": "Compliance Plan", "Type": "Regulatory", "Country": "Canada" }, "geometry": { "type": "Point", "coordinates": [ -123.121987557888303, 49.282598735817189, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Australia CAV Microsimulation", "Detail": "VISSIM Microsimulation of Connected Vehicles", "Type": "Transportation Modelling", "Country": "Australia" }, "geometry": { "type": "Point", "coordinates": [ 151.210963120034393, -33.875751494968249, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Private Development", "Detail": "Swept Path, Preliminary Design", "Type": "SitePlanReview", "Country": "Belgium" }, "geometry": { "type": "Point", "coordinates": [ 5.113276067619318, 51.184138546857184, 0.0 ] } }
+{ "type": "Feature", "properties": { "Name": "Private Development", "Detail": "Swept Path, Preliminary Design", "Type": "SitePlanReview", "Country": "Belgium" }, "geometry": { "type": "Point", "coordinates": [ 5.113276067619318, 51.184138546857184, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Retail Store TIS", "Detail": "Traffic Impact Study Winona MN", "Type": "Traffic Impact Study", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -91.682071019017101, 44.051293569133229, 0.0 ] } }
 ]
 }
