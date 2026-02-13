@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "Projects",
+"name": "Projects1",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Name": "Energy Facility Ireland", "Detail": "AutoTurn, Traffic Management, Axle Loads", "Type": "SitePlanReview", "Country": "Ireland" }, "geometry": { "type": "Point", "coordinates": [ -8.5707073047984, 53.910666487566623, 0.0 ] } },
@@ -27,6 +27,8 @@
 { "type": "Feature", "properties": { "Name": "Vancouver Elevator RCP", "Detail": "Compliance Plan", "Type": "Regulatory", "Country": "Canada" }, "geometry": { "type": "Point", "coordinates": [ -123.121987557888303, 49.282598735817189, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Australia CAV Microsimulation", "Detail": "VISSIM Microsimulation of Connected Vehicles", "Type": "Transportation Modelling", "Country": "Australia" }, "geometry": { "type": "Point", "coordinates": [ 151.210963120034393, -33.875751494968249, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Private Development", "Detail": "Swept Path, Preliminary Design", "Type": "SitePlanReview", "Country": "Belgium" }, "geometry": { "type": "Point", "coordinates": [ 5.113276067619318, 51.184138546857184, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Retail Store TIS", "Detail": "Traffic Impact Study Winona MN", "Type": "Traffic Impact Study", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -91.682071019017101, 44.051293569133229, 0.0 ] } }
+{ "type": "Feature", "properties": { "Name": "Retail Store TIS", "Detail": "Traffic Impact Study Winona MN", "Type": "Traffic Impact Study", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -91.682071019017101, 44.051293569133229, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "NYC-TX-TOR Tunnel", "Detail": "Transportation Plan", "Type": "Construction Plan", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -74.000294307496873, 40.681984003838544, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Colorado Springs Traffic Control for Construction ", "Detail": "Traffic Control Plan", "Type": "Traffic Control Plan", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -104.823907624458741, 38.826875361851329, 0.0 ] } }
 ]
 }
