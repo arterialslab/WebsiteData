@@ -29,6 +29,7 @@
 { "type": "Feature", "properties": { "Name": "Private Development", "Detail": "Swept Path, Preliminary Design", "Type": "SitePlanReview", "Country": "Belgium" }, "geometry": { "type": "Point", "coordinates": [ 5.113276067619318, 51.184138546857184, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Retail Store TIS", "Detail": "Traffic Impact Study Winona MN", "Type": "Traffic Impact Study", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -91.682071019017101, 44.051293569133229, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "NYC-TX-TOR Tunnel", "Detail": "Transportation Plan", "Type": "Construction Plan", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -74.000294307496873, 40.681984003838544, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Colorado Springs Traffic Control for Construction ", "Detail": "Traffic Control Plan", "Type": "Traffic Control Plan", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -104.823907624458741, 38.826875361851329, 0.0 ] } }
+{ "type": "Feature", "properties": { "Name": "Colorado Springs Traffic Control for Construction ", "Detail": "Traffic Control Plan", "Type": "Traffic Control Plan", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -104.823907624458741, 38.826875361851329, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Better ChildCare", "Detail": "Traffic Noise Study", "Type": "Traffic Noise Study", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -76.901460160255752, 38.796992163373311, 0.0 ] } }
 ]
 }
