@@ -30,6 +30,9 @@
 { "type": "Feature", "properties": { "Name": "Retail Store TIS", "Detail": "Traffic Impact Study Winona MN", "Type": "Traffic Impact Study", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -91.682071019017101, 44.051293569133229, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "NYC-TX-TOR Tunnel", "Detail": "Transportation Plan", "Type": "Construction Plan", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -74.000294307496873, 40.681984003838544, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Colorado Springs Traffic Control for Construction ", "Detail": "Traffic Control Plan", "Type": "Traffic Control Plan", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -104.823907624458741, 38.826875361851329, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Better ChildCare", "Detail": "Traffic Noise Study", "Type": "Traffic Noise Study", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -76.901460160255752, 38.796992163373311, 0.0 ] } }
+{ "type": "Feature", "properties": { "Name": "Better ChildCare", "Detail": "Traffic Noise Study", "Type": "Traffic Noise Study", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -76.901460160255752, 38.796992163373311, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "38 Ireland St", "Detail": "TIA for Residential Development", "Type": "Traffic Impact Study", "Country": "Australia" }, "geometry": { "type": "Point", "coordinates": [ 146.818561956204888, -19.296197161615225, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Westbrook QLD Residential Complex", "Detail": "Swept Path Analysis", "Type": "SitePlanReview", "Country": "Australia" }, "geometry": { "type": "Point", "coordinates": [ 151.864955637299289, -27.610128807847136, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Gas Station TIA Will's Point TX", "Detail": "Traffic Impact Assessment for Gas Station in Wills Point TX", "Type": "Traffic Impact Study", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -96.007866557385881, 32.71394114444719, 0.0 ] } }
 ]
 }
