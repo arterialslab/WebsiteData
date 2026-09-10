@@ -38,6 +38,7 @@
 { "type": "Feature", "properties": { "Name": "Savanna Commons", "Detail": "Speed Study", "Type": "Speed Study", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -80.415668863672536, 26.118722471601846, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Margat Soccer Fields", "Detail": "Indoor Soccer Fields", "Type": "Parking Study", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -80.199882544110849, 26.243393481594367, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Fountain Head Microsim", "Detail": "Left Turn Lane Queue Analysis", "Type": "Microsimulation", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -81.408913941925803, 28.314759238204203, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Transit Accessibility UAE Heritage Sites", "Detail": "Transit Accessibility UAE Heritage Sites", "Type": "Accessibility Study", "Country": "UAE" }, "geometry": { "type": "Point", "coordinates": [ 55.298700359651129, 25.22446550745196, 0.0 ] } }
+{ "type": "Feature", "properties": { "Name": "Transit Accessibility UAE Heritage Sites", "Detail": "Transit Accessibility UAE Heritage Sites", "Type": "Accessibility Study", "Country": "UAE" }, "geometry": { "type": "Point", "coordinates": [ 55.298700359651129, 25.22446550745196, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "SOLARA 3758 Fuqua St", "Detail": "Residential Subdivision", "Type": "Traffic Impact Study", "Country": "USA" }, "geometry": { "type": "Point", "coordinates": [ -95.362950964187789, 29.611044945481392, 0.0 ] } }
 ]
 }
